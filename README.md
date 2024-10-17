@@ -10,6 +10,7 @@ My BioData,
 
 
 Disclaimer,
+•
 All of these stuffs ( computer codes ) is " free/gratis " ( mode: public open source code ) for any people ( any living creature and creature race ) in these whole universe. I uploaded my private computer codes to the github for pay and fulfill the penalty ( read here: https://drive.proton.me/urls/DHY4E2ZG1G#aXjRVpyo2No5 ). Able use by any people ( any living creature and creature race ).
 
 
@@ -20,4 +21,4 @@ Adios !!!
 
 
 Danke. Sincerely,
-Jhon Dankeg 
+Jhon Dankeg
